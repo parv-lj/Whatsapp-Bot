@@ -1,4 +1,9 @@
 
+# **Whatsapp Message Sender Bot**
+
+**Node.js WhatsApp Web bot for automating messaging, profile picture fetching, and user name checks without API usage.**
+
+
 ## Installation
 
 
@@ -67,3 +72,17 @@ C:\Users\username\AppData\Local\Google\Chrome\User Data
 **NOTE**
 
 Please  Terminate/close Chrome from task manager first Otherwise the tool will not be able to scrap.
+## Features
+
+- **Keyword-based Search**: Input keywords to search for relevant Facebook pages.
+- **Top Pages Retrieval**: Automatically fetches pages with the highest number of followers.
+- **User-friendly Interface**: Easy-to-navigate GUI for seamless user experience.
+- **Efficient Scraping**: Quick and efficient data scraping from Facebook.
+
+## Roadmap
+
+- Multi Keyword Execution at Same time.
+
+- Chrome fixes.
+
+
